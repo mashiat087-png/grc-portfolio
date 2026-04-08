@@ -1,0 +1,4 @@
+Asset,Threat,Vulnerability,Risk Level,Mitigation
+Customer Database,Data Breach,Weak encryption,High,Implement encryption & access controls
+Employee Accounts,Phishing,Lack of training,Medium,Security awareness training
+Web Application,SQL Injection,Input validation issues,High,Use parameterized queries
